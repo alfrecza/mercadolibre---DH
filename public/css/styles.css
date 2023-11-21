@@ -323,6 +323,18 @@ article div.main-article{
     background-color: #0022AA;
 }
 
+.error__formulario {
+    background-color: red;
+    width: 40%;
+    text-align: center;
+    padding: 1rem;
+    margin: 0 auto;
+    margin-top: 4rem;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
 
 @media (min-width: 361px){
 
